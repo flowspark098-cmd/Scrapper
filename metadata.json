@@ -1,0 +1,6 @@
+{
+  "name": "আমার F-Commerce ডাটাবেস",
+  "description": "F-Commerce লিড ও পেজ ডাটাবেস ম্যানেজমেন্ট এবং অনুসন্ধান প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
